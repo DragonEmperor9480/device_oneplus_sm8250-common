@@ -83,9 +83,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.authsecret@1.0.vendor
 
-#AyakaAddons
+#AmrutChaosLab
 PRODUCT_PACKAGES += \
-    AyakaAddons
+    AmrutChaosLab
 
 # Bluetooth
 PRODUCT_COPY_FILES += \
